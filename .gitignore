@@ -1,13 +1,7 @@
 /*
 
 !/mods/
-!/resourcepacks/
-!/config/
-!/scripts/
 
 !.gitignore
 
 !mods/**/
-!resourcepacks/**/
-!config/**/
-!scripts/**/
